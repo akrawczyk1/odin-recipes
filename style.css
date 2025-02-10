@@ -4,6 +4,7 @@ html {
 
 * {
     color: lightgray;
+    font-family:'Garamond', 'Georgia', serif;
 }
 
 a:link {
