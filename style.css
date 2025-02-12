@@ -1,10 +1,36 @@
 html {
-    background-color: black;
+    background-color: #111111;
 }
 
 * {
     color: lightgray;
     font-family:'Garamond', 'Georgia', serif;
+}
+
+.main-page-box {
+    margin: 8px auto;
+    padding: 8px;
+
+    width: 600px;
+    border: 1px #FFFFFF solid;
+
+    font-size: 16px;
+
+}
+
+#main-page li{
+    margin: 4px;
+    font-size: 24px;
+
+}
+
+.main-title {
+    font-size: 32px;
+    padding: 8px;
+    background-color: #444444;
+    border: 2px white solid;
+    text-align: center;
+    margin: 2px 0px 8px;
 }
 
 a:link {
